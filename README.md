@@ -1,4 +1,4 @@
-# Object-Detection-Using-Depth-and-Color-Images
+# Object Detection Using Depth and Color Images
 
 Made at iHack - IIT Bombay Software Hackathon 2019
 
