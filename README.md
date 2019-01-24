@@ -33,3 +33,10 @@ Made at iHack - IIT Bombay Software Hackathon 2019
 - Aditya
 - Ankur Konar
 - Ratna Priya
+
+## Decription :
+### HHA File Extention -
+     The HHA file type is primarily associated with HyperHub by Oracle. Internal Tool for editing Oracle based data contained in XLIFF archives.
+     
+How to open an HHA file?
+>You need a suitable software like HyperHub from Oracle to open an HHA file. Without proper software you will receive a Windows message "How do you want to open this file?" (Windows 10) or "Windows cannot open this file" (Windows 7) or a similar Mac/iPhone/Android alert. If you cannot open your HHA file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. 
