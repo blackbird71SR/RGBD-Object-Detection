@@ -2,6 +2,13 @@
 
 Made at iHack - IIT Bombay Software Hackathon 2019
 
+## Dataset
+
+RGB-D Object Dataset
+http://rgbd-dataset.cs.washington.edu/index.html
+
+The RGB-D Object Dataset is a large dataset of 300 common household objects. The objects are organized into 51 categories arranged using WordNet hypernym-hyponym relationships (similar to ImageNet). This dataset was recorded using a Kinect style 3D camera that records synchronized and aligned 640x480 RGB and depth images at 30 Hz. Each object was placed on a turntable and video sequences were captured for one whole rotation. For each object, there are 3 video sequences, each recorded with the camera mounted at a different height so that the object is viewed from different angles with the horizon.
+
 ## The problem Object Detection Using Depth and Color Images solves
 
 1. Can be used for better representation of crowded images in real-life situations like crowd controlling and traffic control
